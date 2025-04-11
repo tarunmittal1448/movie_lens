@@ -88,11 +88,8 @@ We would like to express our gratitude to the following individuals and organiza
 - Youtube for providing the trailer of movies
 - Firebase for enabling user authentication and data management.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-If you have any questions or feedback, please feel free to contact us at vinaysingla7896@gmail.com
+If you have any questions or feedback, please feel free to contact us at tarunmittal249@gmail.com
 
 
 
